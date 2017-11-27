@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Normal -->
+    <dimen name="dim2">2dp</dimen>
+    <dimen name="dim5">5dp</dimen>
+    <dimen name="dim10">10dp</dimen>
+    <dimen name="dim50">50dp</dimen>
+    <dimen name="dim80">80dp</dimen>
+    <dimen name="dim160">160dp</dimen>
+    <dimen name="dim170">170dp</dimen>
+
+    <dimen name="dimTex16">16sp</dimen>
+
+</resources>

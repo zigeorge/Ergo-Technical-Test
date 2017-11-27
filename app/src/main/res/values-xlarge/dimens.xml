@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- X-Large -->
+    <dimen name="dim2">4dp</dimen>
+    <dimen name="dim5">10dp</dimen>
+    <dimen name="dim10">20dp</dimen>
+    <dimen name="dim50">100dp</dimen>
+    <dimen name="dim80">160dp</dimen>
+    <dimen name="dim160">320dp</dimen>
+    <dimen name="dim170">340dp</dimen>
+
+    <dimen name="dimTex16">32sp</dimen>
+
+</resources>

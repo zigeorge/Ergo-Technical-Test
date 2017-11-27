@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ergo: Technical Test</string>
+    <string name="loading_items">Loading items..</string>
+    <string name="status">success</string>
+    <string name="failed_message">Data loading failed. Try Again!</string>
+    <string name="failed_loading_distance">Failed loading distance</string>
+    <string name="distance_true"><![CDATA[Distance 1 > Distance 2]]></string>
+    <string name="distance_false"><![CDATA[Distance 1 < Distance 2]]></string>
+    <string name="loading_statement">Loading statement..</string>
+    <string name="no_internet">Please connect to a network first.</string>
+</resources>
