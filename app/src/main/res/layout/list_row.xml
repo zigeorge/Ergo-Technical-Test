@@ -33,8 +33,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="@dimen/dim10"
-                android:textSize="@dimen/dimTex16"
-                android:text="Ullash" />
+                android:textSize="@dimen/dimTex16" />
         </LinearLayout>
 
         <TextView

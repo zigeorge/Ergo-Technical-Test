@@ -8,4 +8,8 @@
     <string name="distance_false"><![CDATA[Distance 1 < Distance 2]]></string>
     <string name="loading_statement">Loading statement..</string>
     <string name="no_internet">Please connect to a network first.</string>
+    <string name="notification_description">New version Apk Download</string>
+    <string name="add_item">Add Item</string>
+    <string name="header">List Header</string>
+    <string name="footer">This is footer</string>
 </resources>

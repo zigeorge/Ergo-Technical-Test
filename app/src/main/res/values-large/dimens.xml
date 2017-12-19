@@ -10,5 +10,7 @@
     <dimen name="dim170">255dp</dimen>
 
     <dimen name="dimTex16">24sp</dimen>
-
+    <dimen name="toast_stroke_width">1dp</dimen>
+    <dimen name="toast_corners_radius">20dp</dimen>
+    <dimen name="toast_padding_7dp">7dp</dimen>
 </resources>

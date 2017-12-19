@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="lighter_green">#ECF9DB</color>
+    <color name="toast_stroke_color">#3d3d3d</color>
+    <color name="toast_gradient_start_col">#616460</color>
+    <color name="toast_gradient_end_col">#616460</color>
+    <color name="color_green_selector">#354798</color>
 </resources>
